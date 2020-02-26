@@ -1,0 +1,12 @@
+{
+    "sellerId": 3,
+    "sellerName": "vasu",
+    "password": 1234,
+    "companyname": "myntra",
+    "gstin": "as12",
+    "briefaboutcompany": "provides nice products",
+    "postal_address": "chennai",
+    "website": "www.myntra.com",
+    "emailId": "myn@gmail.com",
+    "contactnumber": 5766868
+}
