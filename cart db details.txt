@@ -1,0 +1,30 @@
+[
+    {
+        "cartId": 1,
+        "buyer": {
+            "buyerId": 4,
+            "userName": "vas",
+            "password": "1234d666666",
+            "email": "vasu.ankem",
+            "mobileNumber": 876554576,
+            "createDateItem": "1990-11-02"
+        },
+        "quantity": 2,
+        "price": 3562540.0,
+        "description": "good"
+    },
+    {
+        "cartId": 2,
+        "buyer": {
+            "buyerId": 4,
+            "userName": "vas",
+            "password": "1234d666666",
+            "email": "vasu.ankem",
+            "mobileNumber": 876554576,
+            "createDateItem": "1990-11-02"
+        },
+        "quantity": 3,
+        "price": 3536.2,
+        "description": "nice"
+    }
+]
