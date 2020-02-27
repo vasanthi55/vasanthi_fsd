@@ -1,0 +1,22 @@
+[
+    {
+        "itemId": 2,
+        "seller": {
+            "sellerId": 1,
+            "sellerName": "vasu",
+            "password": 1234,
+            "companyname": "myntra",
+            "gstin": "as12",
+            "briefaboutcompany": "provides nice products",
+            "postal_address": "chennai",
+            "website": "www.myntra.com",
+            "emailId": "myn@gmail.com",
+            "contactnumber": 5766868
+        },
+        "price": 1766.9,
+        "itemName": "mobile",
+        "description": "gudjaiua",
+        "stockNumber": 462,
+        "remarks": "ghbadgh"
+    }
+]
